@@ -1,0 +1,9 @@
+{
+    "class": "DRG",
+    "type": 2,
+    "subType": 1,
+    "fieldOfVision": [-90, 90],
+    "fieldOfVisionLength": 100,
+    "fieldOfVisionPolygon": {},
+    "label": "DRAGON"
+}
