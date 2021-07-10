@@ -6,5 +6,8 @@
     "fieldOfVisionLength": 100,
     "fieldOfVisionPolygon": {},
     "label": "DRAGON",
-    "speed": 60
+    "speed": 60,
+    "status": {
+        "IN_ENCOUNTER": 0
+    }
 }
