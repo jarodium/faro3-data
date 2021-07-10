@@ -8,6 +8,8 @@
     "label": "DRAGON",
     "speed": 60,
     "status": {
+        "HP": 100,
+        "MP": 1000,
         "IN_ENCOUNTER": 0
     }
 }
