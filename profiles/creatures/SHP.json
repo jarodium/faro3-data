@@ -1,0 +1,15 @@
+{
+    "class": "SHP",
+    "type": 2,
+    "subType": 2,
+    "fieldOfVision": [-270, 270],
+    "fieldOfVisionLength": 130,
+    "fieldOfVisionPolygon": {},
+    "label": "SHEEP",
+    "speed": 50,
+    "status": {
+        "HP": 80,
+        "MP": 100,
+        "IN_ENCOUNTER": 0
+    }
+}
